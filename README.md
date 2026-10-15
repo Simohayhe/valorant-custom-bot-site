@@ -1,4 +1,4 @@
-# VALORANT カスタムbot 紹介サイト
+# VALORANT Custom Bot 紹介サイト
 
 https://valorant.simohaya.com/
 
